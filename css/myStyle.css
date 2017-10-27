@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-10-27 20:59:11
+ * @version $Id$
+ */
+.limitWidth70{
+	width: 95px;
+	padding-right: 0px;
+}
+.limitWidth170{
+	width: 150px;
+	padding-left: 0px;
+}
+.limitWidth50{
+	width: 70px;
+	padding-right: 0px;
+}
+.inputStyle{
+	width: 150px;
+}
+.row{
+	padding-bottom: 10px;
+}
+.radioBtn{
+	padding-left: 60px;
+}
+.inputArea{
+	width: inherit;
+	height: 200px;
+}
+input{
+	font-size: 12px;
+	padding-top: 0px;
+}
+h1,h2{
+	padding-bottom: 10px;
+}
+span{
+	padding-left: 25px;
+}
+label{
+	font-size: 12px;
+}
